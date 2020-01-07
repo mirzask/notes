@@ -89,6 +89,13 @@ as are studies in pts w/ HFpEF.
     - Cardiac rehab
 - Sleep apnea?
 
+### "Diuretic resistance"
+
+- Ensure adherence to fluid restriction + low-salt diet
+- Ensure pt is not taking NSAIDs
+- Maximize loop diuretic dose (Bumex 12.5 mg TID)
+- Maximize thiazide diuretic (Metolazone 10 mg TID)
+- Maximize other segment blockade (spiro 100 mg TID, acetazolamide 1000mg BID)
 
 ## Atrial Fibrillation
 

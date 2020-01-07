@@ -57,3 +57,47 @@ contraindicated
 Referral to renal for biopsy!! Usually warranted in adults if proteinuria
 persistent and etiology unclear!
 ```
+
+## Hyperkalemia
+
+### Note
+
+```
+Hyperkalemia
+- Check BS (hyperglycemia/DKA/HHS), CK, LDH
+- Re-check K, CBC (thrombocytosis, hemolysis, WBC > 50k)
+- EKG
+- PVR
+- Medication review: ACEi/ARB, NSAIDs, -azole, heparin/LMWH, bactrim, tacrolimus, spiro
+- Consider telemetry
+- Consider other causes:
+       - Increased production: TLS (KcUP), rhabdo, high K diet
+       - Decreased excretion: AKI/CKD, hypOaldosteronism, volume depletion, type 4 RTA
+       - Cellular shift: insulin def, beta-blockers, cell death, acidemia
+- Medications:
+       - Calcium gluconate - 3g IV over 10 mins (lasts 30-60 mins)
+       - Regular insulin 10U IV + D50 (25g glucose) if BS < 250
+       - Kayexylate
+- Avoid NS for fluids; LR preferable if no metabolic acidosis
+- Low K diet (exclude from fluids, TPN, etc.)
+```
+
+### Steps
+
+![hyperK](https://pbs.twimg.com/media/ENkJ7jzUcAA_Kkb?format=jpg&name=4096x4096)
+
+**Causes to review**:
+
+![Hyperkalemia causes to review](../figures/renal/hyperK_cause_review.png)
+
+[Source](http://pbfluids.com/2017/09/the-fluid-electrolyte-and-acid-base-companion/)
+
+### EKG changes
+
+- Peaked T-waves
+- Increased PR interval and widening of QRS complex
+- Flattening/loss of P wave (loss of atrial contraction)
+
+> Severe hyperkalemia (e.g. K > 7) can occur without obvious EKG changes [Source](https://emcrit.org/ibcc/hyperkalemia/)
+
+![hyperK_EKG](https://i0.wp.com/emcrit.org/wp-content/uploads/2016/11/hyperkekg.jpg?resize=500%2C388&ssl=1)
