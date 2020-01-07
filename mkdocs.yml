@@ -1,1 +1,3 @@
 site_name: Mirza's Note Templates
+theme:
+  name: 'material'

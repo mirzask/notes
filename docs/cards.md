@@ -2,6 +2,36 @@
 
 ## Heart Failure
 
+### Note
+
+```
+Acute (on chronic?) systolic (or diastolic) dysfunction - 
+- Presence of ICD/ppm?
+- Last EF?
+- Work-up:
+       - EKG: 
+       - Imaging: CXR, Echo
+       - Labs: BNP, Trop
+- Preload: IV diuresis - DOSE trial (2.5x home dose), TDD of home diuretic x2 
+and give as BID/TID for 48-72 hrx
+- Afterload: 
+- Neurohormonal: 
+- R/R:
+- Ischemia: statin, ASA
+- Diet: salt-restricted diet. If class D HF, consider FWR
+- Labs: monitor lytes; maintain K > 4, Mg > 2
+    - BID labs?
+- Indication for ICD or CRT?
+- If HFrEF and *iron-deficiency* (w/ or w/o anemia) defined as ferritin < 100 or 
+ferritin 100-299 + transferrin sat < 20% -> IV iron for functional and Sx 
+improvement. Studies of the effect on mortality and hospitalization are ongoing, 
+as are studies in pts w/ HFpEF.
+- If HFpEF - consider spironolactone if elevated BNP, SGLT2i if T2DM
+- Encourage lifestyle modifications and optimize co-morbidities
+- Daily standing weights
+- Strict I/O
+```
+
 ### Work-up
 
 - Work-up for _new-onset_ should include:
@@ -59,35 +89,6 @@
     - Cardiac rehab
 - Sleep apnea?
 
-### Note
-
-```
-Acute (on chronic?) systolic (or diastolic) dysfunction - 
-- Presence of ICD/ppm?
-- Last EF?
-- Work-up:
-       - EKG: 
-       - Imaging: CXR, Echo
-       - Labs: BNP, Trop
-- Preload: IV diuresis - DOSE trial (2.5x home dose), TDD of home diuretic x2 
-and give as BID/TID for 48-72 hrx
-- Afterload: 
-- Neurohormonal: 
-- R/R:
-- Ischemia: statin, ASA
-- Diet: salt-restricted diet. If class D HF, consider FWR
-- Labs: monitor lytes; maintain K > 4, Mg > 2
-    - BID labs?
-- Indication for ICD or CRT?
-- If HFrEF and *iron-deficiency* (w/ or w/o anemia) defined as ferritin < 100 or 
-ferritin 100-299 + transferrin sat < 20% -> IV iron for functional and Sx 
-improvement. Studies of the effect on mortality and hospitalization are ongoing, 
-as are studies in pts w/ HFpEF.
-- If HFpEF - consider spironolactone if elevated BNP, SGLT2i if T2DM
-- Encourage lifestyle modifications and optimize co-morbidities
-- Daily standing weights
-- Strict I/O
-```
 
 ## Atrial Fibrillation
 
