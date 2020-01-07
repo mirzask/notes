@@ -88,7 +88,7 @@ Hyperkalemia
 
 **Causes to review**:
 
-![Hyperkalemia causes to review](../figures/renal/hyperK_cause_review.png)
+![Hyperkalemia causes to review](figures/renal/hyperK_cause_review.png)
 
 [Source](http://pbfluids.com/2017/09/the-fluid-electrolyte-and-acid-base-companion/)
 
