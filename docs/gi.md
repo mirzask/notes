@@ -83,3 +83,42 @@ cirrhosis" by Rakoski et al. (AASLD); def avoid morphine if CKD/AKI
 - Adjust dosing of meds
 - Consider Dx +/- therapeutic paracentesis
 ```
+
+
+## Acute Liver Injury/Failure
+
+### Definitions
+
+#### Acute liver injury
+
+- AST/ALT > 2-5x ULN (severe if > 10x ULN)
+- *without* INR > 1.5 and/or HE
+
+#### Acute liver failure
+
+- AST/ALT > 2-5x ULN
+- INR > 1.5 (coagulopathy)
+- HE
+- no prior hx of liver disease
+
+> AST/ALT > 1,000 = ischemia (MCC), stones/biliary, drugs (DILI), or infection (acute viral hepatitis - A, B, D, EBV/CMV)
+
+### Work-up
+
+![](https://pbs.twimg.com/media/Dk-tUigXoAggzKV?format=jpg&name=900x900)
+[Source](https://mobile.twitter.com/ebtapper/status/1031555677095948289)
+
+- APAP level
+    - Start NAC if elevated
+- HAV, HBV, HCV, CMV, EBV, HIV, HSV, VZV
+- RUQ U/S w/ doppler vs MRCP to r/o CBD stones/sludge
+    - if +, then ERCP
+- TTE to assess HF (esp R-sided)
+- Medication review using livertox
+
+![ALI algorithm](https://pbs.twimg.com/media/ENjo1JtVUAY1ez6?format=jpg&name=900x900)
+
+
+![ALI_eval](https://pbs.twimg.com/media/ENjQSZnU0AEZCZR?format=jpg&name=small)
+
+[Source](https://mobile.twitter.com/jackpenner/status/1213949118332067840)
