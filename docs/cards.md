@@ -99,6 +99,61 @@ as are studies in pts w/ HFpEF.
 
 ## Atrial Fibrillation
 
+> If HD unstable or intractable ischemia → immediate DC cardioversion
+
+### Classifications
+
+- Paroxysmal - terminates spontaneously or with intervention in < 7 days; recurrence may occur
+- Persistent - continuous AF lasting > 7 days; requires termination by cardioversion/ablation
+- Permanent - AF > 7 days; sinus rhythm not possible, refractory to cardioversion
+
+### Note
+
+```
+Atrial Fibrillation, (*** paroxysmal/persistent/permanent)
+- Echo: ***
+- CHADS2-VASc score: ***
+- HAS-BLED score: ***
+- R/R control: ***
+    - Goal resting HR < 110 bpm (if Asx and preserved LVEF) [RACE II trial]
+    - Goal resting HR < 80 bpm for Sx AF mgmt despite "lenient" rate control [RACE II trial]
+- Anticoagulation: ***
+    - Indicated if no significant bleeding risk and CHADS2-VASC >= 2 (men), >= 3 (women)
+    - If CKD 5/ESRD -> warfarin and apixaban
+- Consider checking TSH/fT4, Lytes (inc Ca, Mg)
+- Treatment of other co-moribidities
+    - OSA, HTN, Obesity, EtOH use disorder
+- Encourage weight loss (if obese) and abstinence from alcohol (Voskoboinik et al., NEJM 2020)
+```
+
+### Rate Control Drugs
+
+- Metoprolol tartrate: up to 200 mg BID
+- Metoprolol succinate: up to 400 mg daily
+- Carvedilol 3.125-25 mg BID
+- Bisoprolol 2.5-10 mg daily
+- Diltiazem (extended-release) 120-360 mg daily
+
+> European Society of Cardiology and NICE guidelines recommend combination therapy if a single agent fails to control HR
+
+### RVR management
+
+- IV metoprolol 2.5-5 mg over 2 minutes every 5 mins (up to 3 doses)
+- Dilt gtt (if EF preserved)
+- Amiodarone 300 mg over 1 hr, then maintenance over 24 hrs
+
+### Risk factors
+
+- **Modifiable risk factors**
+    - OSA
+    - HTN
+    - EtOH use disorder
+
+### Cardioversion Rules
+
+- TEE + therapeutic anticoagulation → cardioversion → at least 4 weeks of therapeutic anticoagulation (indefinitely if increased stroke risk)
+- therapeutic anticoagulation x3 wks → cardioversion → at least 4 wks of therapeutic anticoagulation
+
 ## ACS/MI
 
 ## Syncope
