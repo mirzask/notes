@@ -128,6 +128,8 @@ Atrial Fibrillation, (*** paroxysmal/persistent/permanent)
 
 ### Rate Control Drugs
 
+![Rate Control Meds](figures/cards/AFib_meds_algo.png)
+
 - Metoprolol tartrate: up to 200 mg BID
 - Metoprolol succinate: up to 400 mg daily
 - Carvedilol 3.125-25 mg BID
