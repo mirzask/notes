@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Note Templates
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The information provided here is not to be taken as medical advice. These are not intended to be complete or exhaustive. This was created as a side project for myself and collection of thoughts, notes, etc. I would advise that anyone who ventures onto this site do so with caution. Please seek expert medical advice and resources rather than blindly accepting the information provided here.

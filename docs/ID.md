@@ -1,5 +1,9 @@
 # Infectious Disease
 
+## Antibiotics
+
+- Be aware of the risk of serotonin syndrome with Linezolid and Methadone [Source](https://www.pharmacytimes.com/publications/issue/2018/september2018/linezolid-and-serotonin-syndrome).
+
 ## Sepsis/SIRS
 
 ### Thoughts

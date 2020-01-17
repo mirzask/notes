@@ -61,7 +61,7 @@ as are studies in pts w/ HFpEF.
     - lower/stop other diuretics upon initiation (b/c sacubitril's diuretic effect)
     - start at lowest dose and titrate up every 2-4 wks
     - Consider initiation during hospitalization for ADHF [PIONEER-HF trial]
-- **Diuretics**
+- **Diuretics** - see NEJM review [article](https://www.nejm.org/doi/full/10.1056/NEJMra1703100)
     - **Loops**, such as Lasix, Bumex, Torsemide
         - Conversions: 40 mg PO Lasix = 20 mg PO torsemide = 1 mg Bumex
         - Lasix dosing:
@@ -70,6 +70,13 @@ as are studies in pts w/ HFpEF.
             - Joel Topf - Cr x 20
         - Dosing during *acute episode* - $\text{home dose} \times 2$ in IV form administered BID/TID for 48-72hrs (Clyde Yancy)
             - DOSE trial - no diff b/w continuous diuresis vs intermittent IV boluses
+        - NEJM tidbits:
+            - PO Lasix bioavailability is highly variable (mean, approximately 50%; range, 10 to 90). By contrast, bumex and torsemide have higher and more consistent oral bioavailability.
+            - PO and IV doses of bumex and torsemide are equivalent b/c they do not have absorption-limited kinetics
+            - Torsemide has a longer half-life in pts w/ HF (6 hrs) than Lasix (2.7 hrs) or Bumex (1.3 hrs). Thus, in theory torsemide should be more effective, but the data doesn't really pan out.
+            - Torsemide vs. Lasix: Torsemide reduces hospital readmissions for HF (DiNicolantonio, 2012)
+            - Remember that during acute decompensated HF, Na retention is more avid
+        - Bob Centor gives Torsemide (prefers once daily) to new HF pts and existing HF pts who req'd metolazone during hospitalization. He'll then Rx metolazone PRN (based on daily weights). [Source](https://twitter.com/medrants/status/1167765807776092160)
     - **Aldosterone antagonists**
         - CrCl > 30 + K < 5
         - useful in HFpEF pts w/ elevated BNP

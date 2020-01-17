@@ -101,3 +101,7 @@ Hyperkalemia
 > Severe hyperkalemia (e.g. K > 7) can occur without obvious EKG changes [Source](https://emcrit.org/ibcc/hyperkalemia/)
 
 ![hyperK_EKG](https://i0.wp.com/emcrit.org/wp-content/uploads/2016/11/hyperkekg.jpg?resize=500%2C388&ssl=1)
+
+## Urinalysis Assessment
+
+- See AAFP review article [here](https://www.aafp.org/afp/2005/0315/p1153.html) 
