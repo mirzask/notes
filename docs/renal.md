@@ -102,7 +102,9 @@ Hyperkalemia
 
 ![hyperK_EKG](https://i0.wp.com/emcrit.org/wp-content/uploads/2016/11/hyperkekg.jpg?resize=500%2C388&ssl=1)
 
+## Urinalysis Assessment
 
-# Hyponatremia
+- See AAFP review article [here](https://www.aafp.org/afp/2005/0315/p1153.html) 
+## Hyponatremia
 
 - "Urea for the Treatment of Hyponatremia" (CJASN 2018) - [article](https://cjasn.asnjournals.org/content/13/11/1627)
